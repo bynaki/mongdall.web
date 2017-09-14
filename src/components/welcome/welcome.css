@@ -1,0 +1,13 @@
+#root {
+  text-align: center;
+}
+
+#root h1 {
+  margin-top: 1em;
+  font-size: 6em;
+  font-weight: bolder;
+}
+
+#root span {
+  font-weight: bold;
+}
